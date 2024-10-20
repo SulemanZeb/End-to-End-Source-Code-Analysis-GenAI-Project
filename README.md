@@ -1,7 +1,5 @@
 # End-to-End-Source-Code-Analysis-GenAI-Project
 
-# End-to-end-Source-Code-Analysis-Generative-AI
-
 # How to run?
 ### STEPS:
 
